@@ -1,0 +1,321 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1992,55.55007981541093,63.55801517244402,47.491537156956724
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1990,26.505565501112784,27.52828237596096,24.52493319336807
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,22.168808075854926,58.87491679107859,5.36527611757454
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1990,28.643114572867187,45.34046711403279,22.655808274720037
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1990,55.133081728222166,64.14395445244321,45.518919492722475
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,29.640932075049847,76.08192631931297,7.724805110591692
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1990,84.41757401792181,97.77028356583335,71.20666356163717
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1990,121.58987423085236,138.18272278066388,104.45537500647565
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1991,27.030896906122035,28.07383708669686,24.911842726748695
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1990,21.614350750408672,22.933227738316592,19.20622351654906
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1990,179.83182730148877,188.39411894241337,162.05143438948812
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1990,44.05329020316919,46.66456651489443,39.193202863716046
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1992,27.399119512066292,28.44264208490833,25.23001503025598
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1991,28.275226723631672,44.571202530360296,22.395251306593725
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,22.77060622847195,61.241025149677974,5.485767444651534
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1991,55.6082019828353,64.3646662587532,47.368507063047026
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,22.51314621755749,60.212393718295786,5.501251316921024
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,29.692928924150866,76.05911313905317,7.743864309897823
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1995,25.81732471422094,40.20390063064351,21.29195082854858
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1994,26.54315663595238,41.589931570366154,21.690395847572866
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1995,53.10148042956274,60.81172852840205,45.687698219215136
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1997,29.809264694419703,31.088562382804,27.295158167074852
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,29.721037173051155,76.18281693022408,7.761164351421633
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1995,29.100844414345275,30.271962492438405,26.7035985978978
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1994,54.35690148916857,62.22966576948242,46.62543737393092
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1994,28.98030782096545,30.109872430520216,26.5906964165844
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1992,27.709791361351343,43.376657363947494,22.224374983276213
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1991,86.321135034566,98.94724468656338,73.0008081919897
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1991,123.05801099204152,136.54190365092413,106.59786238744759
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1992,87.27099443815746,98.67519326333858,74.44872964157855
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1992,123.14699838351606,137.20785287174888,106.88366094531321
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1992,20.30549918453912,21.534123456148226,18.029057713494506
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1992,169.8506388688285,178.08094500716345,152.59316960402606
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1992,42.19201793770191,44.677919495355155,37.360072557639405
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1991,20.86898764636955,22.131257824031447,18.54253060098675
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1991,174.5232650318194,182.9430600592834,156.86833819187146
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1991,42.831850436130445,45.37647360704207,38.00367999858496
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,23.102875346176518,60.725609365793986,5.705968096585739
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,29.881839244685008,77.04684974153535,7.799661039803918
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1994,20.91423114722672,22.171119904767686,18.540241270662964
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1994,166.51911706388603,174.3961738539169,149.84013693285937
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1994,43.46528477280735,45.97002513209886,38.54131429370656
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1994,87.83445768836224,100.027679429277,76.41422867283693
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1994,121.83587803040342,135.56303621111985,107.11684460392502
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1997,23.49346975314404,37.97690190838574,18.781165364363154
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1997,47.63647313926413,56.74959038337411,39.49986371683091
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1997,20.651964054729348,21.91883063002797,18.278495534909894
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1997,152.63649024065577,160.02473359370452,137.00187904141967
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1997,43.000648556147326,45.62733531513185,37.90563465670675
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1998,23.611111481071053,37.021441971361405,18.96550578128463
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1998,48.964900414102786,59.73249666856311,40.46745465287852
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1995,87.14874501380315,98.43892974381306,75.23322043550094
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1995,119.85628652852928,135.08374653274805,106.21953845230071
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,23.166605326760173,60.939268143648086,5.833291605301864
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2000,24.717092132840435,36.65701484521835,20.471050693786996
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,29.812307979130704,76.96776647788273,7.795120686964828
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,29.878584035948315,77.22240291605257,7.822920894209044
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2000,46.13300735432671,52.946638925847935,39.24080640687818
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1998,30.775739794836444,32.088366877068935,28.161566463914106
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1995,20.87779702048908,22.157136376147886,18.51836226447207
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1995,163.33961379609423,171.13752832785613,147.0693861496398
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1995,43.843208100679796,46.471963225793814,38.80313176963481
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1997,80.26029667065043,94.76048677108498,68.33360177877229
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1997,109.05040502127692,128.83505910690104,92.64879225617196
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1999,82.23600307627775,96.48914516315266,70.47090672602327
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1999,110.82226409851869,128.09466309832035,96.20987441561273
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2000,80.77141963454304,91.18359445860487,70.41513739541449
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2000,109.17240376879744,124.74148172032548,95.85785178454702
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1998,81.61209797090544,97.44695610755609,66.79601222397426
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1998,109.49117337022217,132.25496654570463,90.73409034691609
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2000,33.41616146195178,34.89430920273597,30.441597753388347
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1998,20.159250274295456,21.440510185684868,17.804503492582242
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1998,149.42351987930496,156.80014827891964,133.91624363441622
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1998,42.73874104708582,45.39604032513223,37.61076919498907
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2003,33.39815571466822,34.9307041002406,30.24425691065604
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2001,24.723270059533995,35.84519820483165,20.218749210968735
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2001,43.94883522345142,51.2376552843454,37.6895419823202
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,23.056634418125807,62.0117666425802,5.558688116698516
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2001,77.54343678908646,88.38912101562254,66.76761912915694
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2001,104.46004723412405,119.04054049889693,90.03190882243817
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2004,14.895933253410021,15.881531151915217,13.057809842214978
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2004,122.72109566979054,129.34839081961306,109.13275259104773
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2004,37.889132915272384,40.442311082674145,33.13171799135466
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1999,17.085789660828404,18.161420718782924,15.073039097596087
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1999,150.1968032289162,157.58532565896425,134.80433299381977
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1999,43.820275532249696,46.55739866852709,38.57363897609881
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2000,16.179627012482722,17.2288349940191,14.26091891830936
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2000,144.71955350565966,151.93563736643378,129.53041275793402
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2000,43.394300998419915,46.106368041475626,38.12639264844141
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2003,77.31953764801317,87.43195886611319,67.81382423431879
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2003,105.72551494201605,119.49999213254718,93.31833685055334
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2004,76.7867704487644,86.88732704139429,66.93094804613236
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2004,105.40964384085876,118.59090370765317,92.62529193852419
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1999,32.98584122092711,34.384242592720945,30.175709863232886
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2003,15.709038647667363,16.721620206885166,13.77594855238346
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2003,130.14979617468643,136.8835308966722,116.07658114728741
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2003,40.095290820148705,42.676581185986095,35.16886347658652
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1999,24.291179040676074,37.15879998933305,19.977318771505665
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2001,33.58786506992809,35.08377920801842,30.554666242408945
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1999,47.66504432739864,55.21097274529308,39.99747308980778
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,23.08260623899663,62.52829186579854,5.408567822624772
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,29.820644327497725,76.98873986348312,7.766259805358807
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2005,74.93977596775366,84.97735158855012,65.18403817229553
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2005,102.87687914958613,115.09855117212246,91.25266728918861
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2004,32.64927491367809,34.19015182641365,29.498116315253526
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2006,34.770715162987464,40.44155185508615,30.074571546714946
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2006,36.784742133692326,41.589079672523354,31.33083671842185
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2001,15.656820498936185,16.671171836590524,13.757936195832519
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2001,140.19980482150592,147.2423381269019,125.3616013714901
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2001,42.518095738374136,45.25206021189369,37.32854519901686
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2006,71.62583847545844,81.85600492754328,61.40924506876182
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2006,97.37632196461807,110.2647099867881,84.1695855136094
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2004,31.835787099209828,39.86623614946851,27.44765762599728
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2004,40.79755730335839,46.60698944602757,34.79074697885459
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,23.002503971550702,60.87096844205183,5.624615111081002
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2009,62.404634270772696,71.48279964280776,54.69154201872735
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2009,82.97664474167306,93.60277273957081,73.50762169158602
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2007,68.8907235884974,79.22268418152947,59.11628961154326
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2007,92.7069624275425,104.66254940881161,80.55049980398739
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,29.915350481038736,77.40478279445918,7.793339412092254
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2008,66.00614154523863,74.80026082720418,57.55435639421836
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2008,88.10476857128066,98.95228190641234,78.1920829763305
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2011,56.142750202134614,64.62296335174806,48.35984051427469
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2011,75.7718652379563,85.95979301422673,65.52329829957183
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2005,14.869615208936224,15.867452286299246,13.011934833322657
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2005,118.34860990619941,124.87646688110806,105.15199866848484
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2005,36.36641327934202,38.77260047914622,31.861927809529984
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2010,60.57228274884722,69.47750991366301,53.09961223908656
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2010,80.36495877924666,90.7275128623017,70.54619220516572
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,22.80201714777224,61.00835530489517,5.715507616574955
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2012,53.139007228587325,61.95611497205122,45.07894362439092
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2012,71.45778845053611,82.55824318518664,61.304960559939055
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2006,32.62947396763798,34.21556353585306,29.304361746983833
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2006,14.107584323972215,15.051467273521538,12.319293538456106
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2006,112.73379138699639,119.00757524615979,99.95643286877859
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2006,34.96658960314906,37.20863818178079,30.5989137744983
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2008,13.536920587889385,14.42688785862227,11.81440453728959
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2008,103.16825702932287,109.03405204259327,91.14853575360407
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2008,33.04354082718992,35.18697074359547,28.70281778994642
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,29.87688146924102,77.21879978505585,7.761541842764831
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2008,36.8396054574131,41.247654976092534,31.960904429838337
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2013,51.20688566581202,59.341652733107935,43.20031541068505
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2013,68.46643416483386,79.8478448955574,57.90544167935767
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2008,32.62726705289862,36.91516847893148,28.2242097436418
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2007,13.444835349284823,14.34369902123457,11.714154873737728
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2007,106.72761873628018,112.74475366950891,94.38419865931354
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2007,33.91078655029659,36.1321812273704,29.546837391233183
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2003,29.681786181966423,39.69376696312612,25.244957156323714
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2014,48.68842465840335,56.34787049474419,41.23568471704253
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2014,66.87478524025754,77.84130907244067,56.7524190819223
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2010,12.458196405265538,13.286339606208589,10.859456802128882
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2010,94.48585918019491,100.01053742755045,83.28547352734118
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2010,31.1569716390883,33.30843473193073,26.95508547213658
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2009,13.18401605935228,14.028807375854175,11.55586435107322
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2009,98.70632885139918,104.33828360242843,87.05351209634229
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2009,31.958963898914263,34.05598750908814,27.67685936230459
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2005,33.212090242720116,40.577874733092365,28.75157152295837
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2003,41.80844934986571,47.755769197454555,35.72855602187861
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2005,39.39672220592705,44.70256732399732,33.93872002621924
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2011,12.607937628462162,13.440761480093723,11.002709821275397
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2011,92.48277861991095,97.83670576531546,81.59161183578189
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2011,30.908616133327932,33.019388420118794,26.741515725345653
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2012,12.296752070544207,13.13360576488821,10.69729491393368
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2012,90.21469084182078,95.51754763708989,79.65088110342481
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2012,30.52895427069445,32.660450531565054,26.422485442851496
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2005,33.18145683314558,34.78044634086433,29.889587233711122
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2008,33.76189428895247,35.52553067546669,30.131167157189218
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2007,36.06886932769922,41.7042150950542,31.112084210172416
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2007,34.58290473627252,39.084595731014794,28.949710645510017
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2013,12.697481883186425,13.564163427970191,11.053769688390378
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2013,88.33243773838203,93.511881268846,78.01095230921752
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2013,30.212913711461393,32.30841247833227,26.09472929394608
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2015,46.89355520279562,53.09467357508777,39.92054045601282
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2015,65.51824316906226,74.80700610376569,56.658524831079475
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2009,36.95241997296763,41.503655619477705,31.885289299119847
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2014,12.606582967851807,13.446524903460773,11.00904326082959
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2014,86.58905693506121,91.6947963690056,76.46091319898055
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2014,30.49610826722481,32.6383312458889,26.341596075687495
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2010,33.076381924962746,34.854531797390685,29.379584640547296
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,22.525677133491595,60.28611773880633,5.685984086012034
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2009,30.628971134515975,35.3751083599148,26.87991312864054
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2007,32.73236923544704,34.39037018194706,29.299469146316174
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2016,46.90236116046737,53.92680911946623,39.8513687973595
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2016,65.1375173250179,73.65010186443169,56.542764274127215
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2015,12.40181351263658,13.233930786549529,10.796512376330329
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2015,85.2685118307964,90.29674546963246,75.3763147172993
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2015,30.91581240819036,33.10778843752289,26.68878001818789
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,29.841345466793836,77.17387229763652,7.746157625954046
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2009,33.44513922035778,35.19906465568647,29.759066507949626
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2011,37.410794472534214,42.30060550365323,31.68784975587399
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2011,27.753764226239756,31.831624317137475,23.743930925263466
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2016,11.945305455453411,12.739240595542755,10.463780509234494
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2016,84.3399170058176,89.2465123005776,74.68531488718533
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2016,31.229358594053892,33.45557972634477,26.984566144875828
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2017,44.79611371823409,51.98865220891295,38.16104919159952
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2017,63.395375900960325,72.41526165941775,54.14547950947488
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2013,36.99777262647408,43.276000694544464,30.438798522274116
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2013,23.510302816547796,27.40992922211313,19.859217520232267
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2011,33.352746661883565,35.166030085260246,29.5932355781874
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2017,12.059821603441954,12.862178583084448,10.526128820559821
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2017,82.8763555688605,87.66863421340724,73.36714190561433
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2017,31.23869025792656,33.4290155304884,26.974373771369326
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,22.367388904938935,59.44635933983922,5.539592222983499
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,29.773619610510952,76.72455647130325,7.738540508181081
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2010,37.70748194387559,42.60097570641994,32.43794953395945
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2010,29.447810070165716,33.79240534183582,25.679911193803306
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2018,45.14925534842321,53.32132914965862,37.83339841073742
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2018,63.81449005815006,74.021687698643,54.334393994467064
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2015,20.54446236801618,23.65888366790918,16.999445880669228
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2013,33.15497786642193,34.953591413928066,29.373655494679166
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,22.270091979961254,58.33340112450722,5.508803170061039
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2012,37.04202856475285,42.89826605102693,30.43246652260578
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2012,25.643215918912208,29.914045554796104,21.634662982714808
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2018,12.046131124657416,12.855074541713064,10.5383659253257
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2018,80.68599872149606,85.38131081029657,71.20191271067318
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2018,30.689137383820274,32.89602696485427,26.403748620759654
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,29.635337466614498,76.14532058615018,7.725949612387496
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2015,33.08808665579669,34.93081293252495,29.310875545560712
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2019,46.16614294128818,54.4521003733602,39.409577158361095
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2019,65.28593917858132,75.99394409192573,55.19382593464204
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2012,33.17202414116495,35.015065858153434,29.42306349718675
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2019,11.105896637620212,11.872220443284005,9.747012333184047
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2019,78.78627922155239,83.45121367844348,69.52428528183842
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2019,30.351376900807928,32.528759847591296,26.068083621601797
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2014,37.605217728691535,43.25160354164558,30.544514707663364
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2014,22.024941094707906,25.582864326629927,18.558403356477815
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2014,32.84591607386973,34.65251659577885,29.09107459015118
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2021,47.05461676124794,58.634403004142285,36.80390364159563
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2021,65.58837153446332,80.79979132029155,51.016106779238896
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2021,8.852734427212107,9.567553824794214,7.673594074249936
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2021,78.92105917731956,83.85452173179054,69.93484370641197
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2021,30.26593048096744,32.50665076428035,26.006589254383556
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,29.670035165010223,76.05003643737354,7.757272078970811
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,22.147954200493622,57.36226547068833,5.634750297530619
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2016,38.8945669045702,44.454313772347476,31.444199655257542
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1996,86.4208817580285,99.08009194784081,74.55485297127113
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1996,118.01241349797067,134.66510147664104,102.96007760074211
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2016,19.76084450674442,22.830472983394223,16.68805203588391
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1996,20.71867299221488,21.997178375990238,18.35097339215182
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1996,157.96088628285835,165.52823691866462,141.9399794256233
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1996,43.52073095585884,46.137586787996185,38.40463305728018
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,29.626529492254182,75.72522899892688,7.754594669918454
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2018,39.59316201921341,46.285455188094836,30.936709994581026
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,21.9672202372586,56.36180555776473,5.481556663151246
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2018,18.973957538110188,22.762525565815803,15.67547427755688
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2016,33.0231063377349,34.85671600687432,29.30719910089164
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2015,38.15650580967926,43.22922493915684,31.25013443070338
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2002,78.59521736610317,89.05346232440415,68.38110312887963
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2002,106.91670547118436,121.1171181510866,93.18873538575474
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2017,32.90340335567596,34.73618796513665,29.179086341956133
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2019,40.44727187327686,46.95981275838845,31.480010725390937
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,29.571329226910937,75.42398198543435,7.738225217755202
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2002,15.875762272807496,16.9020411361087,13.940775963152356
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2002,135.9941708706939,142.9984566826905,121.58870234994802
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2002,41.67306137197435,44.305037598441515,36.53958904318126
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2019,19.259424714370095,22.81835087311048,15.805190965253628
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,21.78993019222292,56.527112410206044,5.233223202107538
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,21.61583915647162,56.21459122029707,5.102323736049747
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1996,25.192356699999653,39.77807104194462,20.644936330823548
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1996,51.887291156615674,59.704277702946584,44.19709664472949
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,29.555884027915404,75.31945717069563,7.728596621788972
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2018,32.07194617362875,33.9389490755772,28.37567968596312
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2017,38.6415858070658,44.09559578136926,31.47988105196225
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2017,18.928996303148672,22.55977992015054,15.899442151063361
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2019,31.268480852814985,33.06183699924629,27.667536210927246
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1993,20.956966571454842,22.19574955657607,18.607318308508283
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1993,169.69339205009345,177.82243964243617,152.48695389918987
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,1993,43.024325096536025,45.53207664277141,38.15560934843332
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,1993,87.83883196203901,98.0720794371203,75.37627063563896
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,1993,122.6314803919684,136.0768304896905,107.58591159174
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,29.470219711992296,74.87555699327761,7.7303723683019845
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1993,55.1020458474214,63.122222629082124,47.17165710200274
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2020,46.50252212360478,55.861843055925945,38.0076708093888
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,494,Stroke,3,Rate,2020,65.3094920430086,78.02492291755803,53.12683345673484
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,21.33286551699782,55.123526556571285,5.057913944107679
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1996,29.333664287355322,30.5474924117951,26.849271460545328
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,29.441687758081784,74.68670955485213,7.755170832966639
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2021,35.54034590402956,44.58753149860677,26.544207060503663
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2021,19.800061597994127,24.97322011083513,15.222006806996356
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,1993,28.677758430128627,29.782892556428763,26.35868906459158
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2020,10.538959536172772,11.553121389986746,9.072852309422002
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,493,Ischemic heart disease,3,Rate,2020,77.62632799454737,82.2782678222062,68.03181369485658
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,494,Stroke,3,Rate,2020,29.8648765294377,32.07863640672604,25.566967410103675
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,21.1480744335005,55.15834233282438,5.272020304091935
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,21.00179007954714,53.62951078197808,5.337302121842073
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,29.47436290748103,74.73899723466441,7.759271832718521
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,20.97983684222848,55.25874443883269,5.219725016734468
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2021,31.31622847739301,33.14783986372072,27.470027277673893
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2002,27.552215830488,38.44788643238776,23.01690960493749
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2002,43.369798363107655,49.57623231440767,37.08575725915093
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,29.45985424593832,74.5110066028455,7.7862820457087585
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,29.422441497168595,74.25198420941021,7.789980004503645
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,21.076185849748445,54.4600708869384,5.2193682714359975
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,21.364499301031053,54.24479997165606,5.276799847967799
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,29.41045881777488,74.05586973728533,7.813584484674689
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2002,33.59626912398169,35.08891038437158,30.494084225640254
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,29.4000570008641,73.99955184237504,7.798259588699158
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,2020,36.64452945518775,44.12931403495476,28.63658117268189
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2020,19.45684500566604,23.66173269993854,15.399946458789616
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,509,Chronic obstructive pulmonary disease,3,Rate,2020,30.97943753788507,32.754527261867885,27.257898191101923
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,21.305100439705217,54.39651113519719,5.226762031221104
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,322,Lower respiratory infections,3,Rate,1993,27.180088338645486,42.93397827715828,22.142449535208804
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,29.372937792705002,73.93444093846966,7.811146522912378
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,21.269891605768088,55.37825690268812,5.327270445714796
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,21.159333797456352,54.64027688203352,5.444094014348544
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,29.26463805821771,73.51216598452942,7.781936023828727
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,21.19068923971077,53.74843518975692,5.52182118771166
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,29.163535743432394,73.27850627497216,7.761073442421502
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,21.152981590478422,53.30089115189275,5.595606039237553
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,29.349415471198228,73.93177000879302,7.794883473926933
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,23.19837885785189,61.534500512673,5.773013687820331
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,29.845877972180773,77.07100046741512,7.797081156787729
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,29.17182439634862,73.51913379153382,7.744984569560363
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,21.105578323503412,54.922070101623596,5.473873421044935
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,23.000271400867298,61.39528889567214,5.744213700077629
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,29.849258168578295,76.78210017519923,7.802547470371581
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,22.51295988439285,59.37889703987496,5.66063389512757
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,29.82416921020015,76.94276103310123,7.739786436140206
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,29.026126630122437,72.62003555170384,7.711823188652688
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,21.18576954706046,52.27270983460517,5.385647258417915
