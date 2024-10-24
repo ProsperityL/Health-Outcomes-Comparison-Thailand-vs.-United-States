@@ -1,0 +1,769 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1994,0.6131072546043318,0.7515095920194337,0.4864780780509401
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1990,0.7578982197824382,1.0127239506251846,0.5571038521139419
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1992,1.3872157881314828,2.986507406324162,0.5499135683244154
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1994,604.4279543855345,663.8322689627524,543.5348334383667
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1994,27.031913173514628,31.53961722813098,23.186477678559957
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1990,588.6482382195703,649.2099103385533,520.9029053425679
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1990,24.36780874752699,29.574841607261764,19.989098063004306
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1992,68.85733213683979,78.38369579183009,58.47360034911514
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1992,163.86300787368597,212.7005360525417,137.92456409548603
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1992,40.00340901593023,47.2498813583224,33.14035107538524
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1992,20.459969923441832,20.972202320326744,19.980262790558424
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1990,24.258999354912987,30.5821244796387,20.243552615678556
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1994,26.805180617230747,31.566908277248686,23.150337687386298
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1992,143.12079749886857,158.9550676479752,127.352473332476
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1990,45.27447304397653,46.68754610331548,42.73867016291591
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1990,0.7138701195375939,0.7393211595074459,0.6765190638284391
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1990,9.76806545683992,9.791223765495202,9.74715452769648
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1992,230.24813034524982,253.4671945928504,202.9366898208386
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1994,0.7678353553952304,1.527149667405495,0.31986055100676414
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1994,157.06673632079955,190.39475811245657,136.75129478424682
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1994,35.65210000535609,41.963744567954805,30.17356886000277
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1994,29.294556586677047,30.318219251293336,28.40328646565899
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1992,601.1068201613618,653.8131701736476,540.6682600607795
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1992,25.87628111527904,31.017729651581025,21.38293389571415
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1992,0.5856844528003335,1.216761945035743,0.24105790138821867
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1994,67.03085830675201,76.69708165852212,57.855693025748664
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1992,25.653485548014803,30.50169439940785,21.818736995559703
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1990,177.6482013511147,239.16070355302438,145.637995547643
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1990,43.99897403874126,53.874834969306846,34.50700042401237
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1990,15.858604352400745,16.159686515057157,15.598078768748374
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1990,263.2256624891666,275.78669214882393,237.18896037998317
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1994,146.05627088396662,161.96949365025978,128.61338255389063
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1990,0.40025911618096743,0.7778818212957448,0.1763452397512446
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1994,0.70075243419858,1.4536482466569765,0.2707268593736173
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1992,0.061362645210813006,0.06690000016506113,0.05630666339180102
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1990,31.133487771895073,32.29699722561497,28.850685762839664
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1994,229.57362252452717,253.88123216233305,202.42877396004815
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1992,0.0625852202610686,0.06639951765448453,0.05705297794047882
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1992,562.3461320412247,566.310057926658,559.9502145787544
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1992,15.684396718466123,16.33011943087853,14.552567512654715
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1992,8.704252702263844,9.15037521319774,7.846905945713093
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1994,47.64149229095228,49.02062680554526,45.09404381379294
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1994,0.5411477282998023,0.5624237309222035,0.5102377068660544
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1994,14.349431115014507,14.38463342817967,14.309431937450894
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1990,225.5427322993087,254.12094293094668,196.5718598407822
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1990,2.5673281180322656,5.303943571662497,1.0677798536518495
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1994,250.863526005231,262.6536249211676,225.21311304545088
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1994,0.05695980366590304,0.0613693402414581,0.05250379491755755
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1995,155.76935064896506,185.86696149390755,137.11892353003697
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1995,33.766953398788296,39.04613005468754,29.14198189271791
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1995,34.95174564575767,36.18629197748699,33.691345905536345
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1990,68.93683824687294,80.41650593586255,57.42085267646216
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1994,0.06653524192337562,0.0710714627718132,0.06119043395786822
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1994,566.0407488468647,569.6846693110579,563.8099254894285
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1994,17.07974036159742,17.768935612916643,15.794481833259171
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1994,8.976395383984313,9.423030992087618,8.067704594135865
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1992,45.40735160827498,46.78083859777646,43.01535340544437
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1992,0.6199115772928229,0.6422182350961465,0.5858576052874028
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1992,12.378001662245723,12.409197386527303,12.344637957578467
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1990,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1990,138.79533696444742,156.28489309252913,121.0136516847114
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1994,33.900717751355046,35.15979332978899,31.22087685074282
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1995,226.73632288728132,249.82014076551005,202.3274372543132
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1990,0.06673951952672623,0.07273330405550926,0.06114834981426904
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1992,251.82048192681972,263.9154352823796,225.81031132997896
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1994,168.53704817031428,173.30425274516787,159.0424418352614
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1995,46.42138586885195,47.80930288528257,43.85818170037595
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1995,0.48901631341506113,0.5076264714708529,0.46026767328161566
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1995,13.66553613218268,13.695110025461341,13.637589813317732
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1992,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1990,169.26483528111348,174.07752657110447,160.49273314060974
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1991,167.7520727786475,222.41543923180242,139.04346266030046
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1991,41.90604171515757,49.60697733950332,33.65303553209788
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1991,15.53015183056333,15.832396455739149,15.243849027127784
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1992,32.1061187377203,33.306603825647215,29.588077583557702
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1995,248.48692280676917,260.5742249874602,223.19176844952187
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1994,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1992,168.2364909167591,173.21536920586217,159.10564655964896
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1995,0.5874791980843289,0.7198400304016672,0.4795857714654576
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1995,601.1914860929725,660.885238286215,546.7413366314303
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1995,27.33575007217156,32.41048109278249,23.591713331552068
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1995,34.10665186556965,35.42149603177812,31.38354473862237
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1995,27.235982133201375,32.145921963643346,23.69217848115163
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1995,167.89550174201602,172.64581319588362,158.3939157574975
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1991,45.350629130277014,46.74651366230811,42.84189520332274
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1991,0.6640079417644856,0.6881992191904382,0.6278222022748086
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1991,11.14347228331706,11.169256483476854,11.118770940277829
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1999,160.32161963135704,164.92767012723036,150.50513451084137
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1990,0.06000025796462912,0.06355906708524053,0.05507856451519158
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1990,574.2130817106495,577.7222805724497,572.0102036521228
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1990,15.23492124818917,15.899399464353126,14.11440238812916
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1990,8.490271565423877,8.901428357912296,7.7247771873411395
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1991,229.18353969844438,252.36583433373818,200.17738484446568
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1997,38.94548086047097,40.40580230981435,36.280522847395375
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1997,0.40835277017850824,0.4236532652503774,0.3813231103394434
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1997,6.731818022770893,6.737120129155573,6.726116658858553
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1995,0.7146357148391308,1.4703063926113342,0.28230694551989133
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1991,1.7017347148515953,3.752165341504417,0.6966291724664609
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1991,0.4992572855049663,1.0250376073366083,0.21046024391616242
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1991,256.8876417209219,269.36266478641545,230.65043640525025
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1991,69.2351525823187,79.92758129443446,58.51126925746935
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2004,117.96366200044407,129.49546462871263,108.37651228892484
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2004,23.05300689803165,26.48719021903897,19.946144390904333
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2004,26.04048096637989,26.36400725651885,25.69439597785456
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2004,31.354511932216855,32.563628522465685,29.157746722703088
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2004,0.2323543208593037,0.24233564467652974,0.21645450459073698
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2004,4.193619644578262,4.195256531474654,4.191850828732035
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1991,0.06450984098609867,0.07011420310382636,0.05912117697847688
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1991,0.06076719558314746,0.06422339846950403,0.05549046347681592
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1991,568.1636584656999,571.8417360388758,565.8293423523921
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1995,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2004,200.53064864561156,222.70777213357846,178.42934413281606
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2004,197.87055001967298,208.4533514067729,175.77488718340388
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1991,15.47389453825969,16.11337954705746,14.359145743800953
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1991,8.543271128439876,8.95205076167978,7.732981592279179
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1995,0.5871810292910192,1.2182265714194722,0.2609151636210352
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1991,141.5987627285996,158.54376535710657,124.81318523125474
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2004,38.42303681034457,40.18444880506861,34.82502893973484
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1991,0.7142844598292277,0.937534607972551,0.535477883826008
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2004,150.04466385634507,154.88258679737547,140.00011449979695
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1991,597.9121295802317,653.0797761923722,536.2588728108238
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1991,25.23726394021222,30.147856507610168,20.71136606011691
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1995,65.37709115677565,74.64745645895371,56.255258873795576
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1991,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1995,146.83390758942556,163.8154652048791,130.9258547943142
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1997,236.82193243490497,248.4685079481744,212.08650080863518
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1991,25.088578388723775,30.87329670465711,21.21543426868534
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2005,148.0789398227713,152.90583822587857,137.97687809725755
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1997,0.04788202397826716,0.05145035348644003,0.04388637507682257
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1998,37.300076785330155,38.739539164265935,34.62047351970631
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1998,0.3920776322758995,0.4071292721817339,0.3651466165435402
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1998,5.446130761988945,5.449090167434996,5.442662381266596
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1992,0.6667320753103956,0.8515226056291081,0.510981006905573
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2000,143.03885431709412,161.05719499375527,129.712662653488
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2000,28.164150922988796,32.490690507801,24.185223870435145
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2000,44.79014943058754,46.25297659815474,43.32712900907171
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1995,0.054180215233342044,0.0581405624087552,0.049901861645645855
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1995,0.06966188916688842,0.0744259779455639,0.06412764983747903
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1995,563.7527933105595,567.5470362147188,561.486914456691
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1995,17.62680920260921,18.337765042681117,16.250395304116434
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1995,9.084958517521713,9.520720282326124,8.159461191956892
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1997,0.0727459471077134,0.07712775643745176,0.06659930990874541
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1997,547.454222114724,551.5140774916532,545.1353400975296
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1998,156.33718666157768,183.14657029786446,138.26512490530695
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1998,28.830024000121124,35.56228000545024,23.325598030915586
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1998,53.87557432982283,54.99135433415673,52.73621656866654
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1991,31.737737812439125,32.90109890342452,29.290978010808224
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1991,169.1912829493597,173.97227936263627,160.07616159301824
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1998,0.6873136100127732,1.3157870297100562,0.290826427302952
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1997,18.021012571720842,18.75787489462637,16.57701716884034
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1997,9.36102586222141,9.847809053849225,8.417802568318587
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2000,33.013012745994246,34.182718259896696,30.76994821461613
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2000,0.3217471662896812,0.33420003127569503,0.2995112135640409
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2000,4.936626395266975,4.9390373860499555,4.934083405762705
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1997,155.25109586272916,182.22822294189393,137.0552762477722
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1997,29.09799026422843,35.292002608789474,23.911236390945966
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1997,49.924019056491105,51.09619650236853,48.6927818720828
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1997,34.91221029416315,36.339237445675856,32.100848067465826
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1999,152.90684396884092,175.4535768695067,137.55404319003782
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1999,29.48768987612063,35.214602813700715,25.05289759826575
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1999,51.31902859515956,52.84335751726712,49.69566994530237
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2001,32.242469300071605,33.433070624675544,30.029625152221914
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2001,0.29933808823272445,0.3116164481050717,0.2788317914605796
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2001,4.697755684579424,4.700115274273216,4.695652869197025
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1997,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2001,131.05880862705385,147.89576590189256,118.1422810984113
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2001,25.577608482098995,29.957552636054906,21.75518867755437
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2001,38.37167634701065,39.566434783286546,37.19507633669239
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2003,32.3635651711973,33.57728966709129,30.081117586211416
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2003,0.25578432997361017,0.2664650492666484,0.23862173130153483
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2003,4.42111244707532,4.423009570699345,4.4192146646496155
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1999,34.37053588855086,35.57000614848716,32.06890990946674
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1999,0.39034333391118586,0.4054318997448276,0.36343950427694444
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1999,5.378089821553352,5.381056477883811,5.3749958753638944
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1998,0.7798871906768929,1.6206873460667999,0.3159629785368637
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2000,0.5576191740388494,0.6917649122310255,0.44290072911481027
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2000,0.6476538789471834,1.2554464550664082,0.28720520952366707
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2000,0.4683250839535142,0.9404263360768611,0.2139533579265756
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1998,59.977458799327955,72.56768986162699,49.3057298150461
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1998,0.4901907942801836,0.6427784640724064,0.37230682964060824
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1999,0.6690880720711534,1.2819774320459272,0.285060474860405
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1998,232.7453913332772,244.31257658432096,208.12772481118483
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2000,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1998,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1999,0.5236439132234936,0.6573716245413471,0.4133302269359193
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1998,0.045010577673869144,0.04839381336166152,0.041151361836193126
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2000,56.418019670708404,64.64613140999397,48.389087635723044
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2000,567.4887476048752,626.4454014849922,509.2134143060252
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2000,27.315817473088636,31.828002975835755,23.39103889868011
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2006,30.299213703845712,31.459972267772095,28.057957003613545
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2006,0.20435759888406094,0.2128365988462402,0.19006546170596803
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2006,3.7324616775276236,3.7338443118886833,3.7311711897884288
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2000,143.81797433667137,161.72135173191734,124.14761780717859
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1998,142.3471317644161,172.26676045700148,117.95901664729429
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1998,568.6039607277187,673.6811200671382,476.0345074133877
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1998,26.702661682268268,32.884230307214,21.486278443891216
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2003,121.33078377975309,135.4084482037811,111.66325952707459
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2003,24.380285536861734,28.00445816464882,21.136113797900222
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2003,28.429174936830357,28.94818640888888,27.911448951686456
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2000,0.04502666462397807,0.04838098244688693,0.040956793328197655
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1997,0.571435639861532,1.2579591105906502,0.22508466795248547
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2000,28.812546105951913,33.100038516610354,24.828680053177276
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1999,0.044905959970903395,0.048123471207232746,0.040960075875261744
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1999,573.3664532897337,646.7078147300126,505.10478052307843
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1999,27.45267622336224,32.578164149357576,23.232878801598652
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1997,0.4963999098412544,0.6376197755813183,0.38627984376400715
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2000,208.64926590096746,234.77810377284902,184.41025637678223
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2006,111.15765419997935,123.17558326101141,101.49409189510006
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2006,19.348326064476645,22.640383792729686,16.46928398595138
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2006,23.59532729595397,23.84876350827784,23.30442702513989
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1997,58.591209544988,69.77288559357659,48.893757330712035
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2000,226.07496003254332,237.83979303067986,201.65099521831831
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2005,31.358498264703677,32.56753880134117,29.144529729051847
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2005,0.21889192388774012,0.22826188514178056,0.20410827044933727
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2005,3.944911813240793,3.946660370694662,3.9434490325064426
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2003,0.042930853660135666,0.04609990078929992,0.03894832021324565
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1998,0.07581397997097389,0.07996795575374566,0.06943075668811743
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1998,544.0620883112147,548.0637341610077,541.7144230266749
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2007,107.04800167967996,117.35688074597506,97.559012355286
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2007,17.815725167698677,20.76724263673122,15.266587114904013
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2007,21.233120067048628,21.482143104903816,21.000161077368503
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1998,27.199291536786063,33.083289649309975,22.108097912285345
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1999,28.400240904592163,33.05929846967461,24.38290095235559
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1997,162.01367380800417,166.73651673803397,152.49717636771356
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2001,0.5843025293715745,0.7369873619663607,0.4639763409701548
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1999,211.9128747494965,242.03756437426782,186.5368926695554
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2001,220.55277469405803,232.0055323095886,196.5985146862506
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1997,0.6944627656666927,1.3665374621192286,0.29642187220165
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2007,29.50305056886817,30.663214564527507,27.331734552928374
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2007,0.18752822449926707,0.19538876027034874,0.17403102902104003
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2007,3.449456161162778,3.450559062679656,3.448276876085505
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1997,140.33666257701313,167.78538726315082,119.33354759519642
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1999,0.721104212041318,1.3878435327269412,0.2977642871882159
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2000,0.07925154077653422,0.08380857001588322,0.0729929346547381
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2000,545.6558851797249,549.0311561769859,543.7256774336283
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2010,26.62653480050569,27.74282662992442,24.543316372125567
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2010,0.163692523040033,0.17136658762313833,0.1509184811713214
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2010,2.501001857661424,2.5015235156424835,2.500504464226239
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1997,563.0717355056847,658.9494769050077,483.3274768050687
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1997,26.554880537426087,32.55449575780458,22.095951059913475
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1999,0.08056763556825154,0.08495187018761936,0.0740490328921992
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1999,549.7129541622464,553.4652195591494,547.5026395005056
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1998,210.06865010650696,249.37528514838274,177.12567472166498
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2001,0.3642035956079875,0.8200661977367505,0.1474795410795262
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2003,208.2728786580453,219.09822974609125,185.4283313879069
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1997,26.86567553720766,32.64124450211469,22.534266092326547
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1999,58.323304586805456,67.79609139886894,49.17576579984731
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2001,548.895210130766,608.7375174461961,496.1937282382407
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2001,26.06317974681542,30.195954318642194,22.42555437692581
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2008,29.21091407533856,30.34376421471456,26.995838459837728
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2008,0.17992489699967548,0.18764397847129874,0.16639484698637222
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2008,3.1354547074494556,3.136373943588233,3.1345748190734986
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2003,0.06275552273237961,0.06636400145418055,0.0583241020025566
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2003,527.4436688988966,531.0212862353737,525.2749994603967
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2009,28.159697997163715,29.296979391949005,26.068448385794845
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2009,0.16661489482218206,0.1742874994531971,0.15375604141620033
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2009,2.8578952186364086,2.8585168040898288,2.8572212886874744
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1997,208.1246757786089,242.12569992471708,179.66376567433076
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1999,232.34789396403454,243.99436555443782,207.88047884793266
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2001,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2003,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2005,114.77406483769244,126.33156200288362,105.25261164172994
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2005,21.326800327761216,24.662303369633253,18.571092546017876
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2005,25.231812229575393,25.46225814372844,24.9744799524542
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2001,53.742477771445174,62.45178191397877,46.177133621741646
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1998,18.26615864518593,19.027656463633953,16.81299501586457
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1998,9.78433930948868,10.296561100673237,8.802167553175192
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2001,28.243568366669802,32.649154111393855,24.213451224018304
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2000,18.713127195890415,19.495580285616608,17.24216457978841
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2000,12.236873157037149,12.84411420005401,11.007957933101432
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1999,18.61098277941746,19.386416406020253,17.117503326178348
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1999,10.907012249585453,11.4414335030847,9.830961304362138
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1999,144.41298513820206,165.74373105054462,124.39042026265385
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2004,0.502333429651111,1.0294478914197183,0.22187687653155977
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2001,139.72191241307092,159.04899707273353,121.68206438395478
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1998,35.979707305599355,37.478311906997966,33.020368235940815
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2003,19.156852576771566,19.9917559740995,17.669088981221748
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2003,13.60730057739245,14.305410543544555,12.17376008921077
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2001,200.35103727336946,224.74283286673526,175.87699077875357
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2004,0.04128309116900887,0.044571891863887055,0.03735984428246716
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2009,99.09894959558355,107.68391228858104,91.07515748101609
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2009,15.18360065767828,17.377662114915964,13.367388194103496
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2009,18.60274261275677,18.753316297137243,18.45945213303047
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2001,0.044387603939578156,0.047618202232824716,0.040328928329145274
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2006,184.33688119277863,194.40547724255882,163.34452365655687
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2001,0.6188433930295852,1.198625938109624,0.2750556974364244
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2004,0.053086913368929574,0.05623201215110936,0.048920682794259616
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2004,512.5012690085629,516.0011227769509,510.52884065673487
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2010,97.57378013346232,106.78393806225505,89.11920103234878
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2010,14.365846462587934,16.481185891681278,12.48069911245022
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2010,18.156003915163225,18.26274538941426,18.05280701170444
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2004,18.71992642550806,19.55903463480303,17.228327228623144
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2004,13.663435240138629,14.432712200455494,12.155479418819054
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2004,0.6741328656660935,0.8256567269430345,0.5590972902789759
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2017,90.5858727711203,99.60152069925235,80.93790565451248
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2017,10.040940316656451,11.674035992810984,8.493532997663502
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2017,19.34889782588049,19.409426438866095,19.259958039763475
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2017,122.69873591160842,139.63397185782972,106.33713180746213
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2004,551.1549123199923,600.8254162312678,504.24077263474356
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2004,27.00799736230326,31.08281287451683,23.249933639697907
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2004,30.046990457769898,34.301074300938495,26.28084380658214
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2003,0.5425571534311084,1.0666679326734383,0.2385829244622774
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1999,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2008,102.95605300872205,111.95466473215247,94.65253830545893
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2008,16.450010137652008,18.97438235226231,14.351606616638378
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2008,19.569455149355584,19.755832270918425,19.37755613780249
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2001,0.0754485425320247,0.0798954227176916,0.06990344607848265
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2001,541.572875692087,545.0179210522996,539.5698289733356
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2001,39.28946763995431,40.9964263082706,35.84522612589215
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2003,201.46821746682423,225.67889646292699,179.59832931120596
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2005,191.7895068181536,202.21281987650437,170.2721836644396
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2006,0.6064529795067465,0.7368246566914721,0.48994820825141944
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2007,178.6595801374906,201.21974625221907,156.47196806765388
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2007,176.88558994632095,187.03602622801174,156.26592855654164
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2006,0.4026143459311254,0.8096815442875476,0.17563588052448312
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2003,0.6620538953106747,0.8141220687532634,0.5509307692061939
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2010,160.76373622494143,170.3738497999783,141.2304836659375
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2011,26.530827036747592,27.64485914315161,24.461256821346577
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2011,0.1556138437378746,0.1628914532723057,0.14326776876690506
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2011,2.276299238144672,2.2767363538597354,2.275834555671045
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2012,93.15210926011977,103.70153462078069,82.26678588977157
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2012,12.615629568872716,14.681604607100262,10.704900531161913
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2012,17.869109411540485,17.928488586777576,17.802463062132677
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2012,25.985408706202627,27.128158830205226,23.897390781674122
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2012,0.14731309215368263,0.15423274987368754,0.13500091417783236
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2012,2.129003162992722,2.129390471929762,2.1286347337171905
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2003,552.5084342136109,605.7692809632837,506.11775043437666
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2003,26.779719389009045,30.4960906100579,22.96846273678073
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2001,19.006600068433567,19.807724604352128,17.53771154723436
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2001,12.954152542627076,13.606012013467353,11.610007100850304
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2003,29.69347149979628,34.049473459838765,25.99958963147746
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2017,25.408841233628554,26.527346787631107,23.3598860267553
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2017,0.14376096574751468,0.15031820092255613,0.13230854256021216
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2017,1.6239309280055527,1.6241834228562415,1.6236359943906584
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2017,150.98709370223116,160.20130417856797,133.03263548201753
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2004,0.2118995400693037,0.5307046025572725,0.09304120988751685
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2006,522.5830036855325,576.7731355789625,471.33072770944966
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2006,25.76646981706104,30.09845961466904,22.485461688882243
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2000,39.051982824237385,40.70783860057674,35.66495539397193
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2004,49.99525091371922,56.40260853133766,43.022036327232684
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2004,141.82443617436144,159.84066007590317,126.085031573784
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2006,186.48979698895843,208.8651564487195,163.34488621470612
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2004,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2011,95.39667852840515,105.00154676833262,85.45785901641064
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2011,13.460889118438615,15.484859689356904,11.433471221083815
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2011,18.012918880522946,18.079384541554,17.94712088502463
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2006,29.213301360651297,34.06740786386038,24.912475520133373
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2006,0.2370220367215836,0.5377798362154573,0.09999848742225795
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2005,0.04061475637060291,0.043804103408813,0.03679350096890502
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2017,38.68627086912203,40.76981129773033,34.40406533993329
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2006,0.03931630846908384,0.0426700078223014,0.035685765562578256
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2008,171.88173806280798,181.86519628053122,151.56076767116525
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2008,0.2271837505405955,0.45570426009847065,0.10073737549053738
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2006,44.957126045907565,50.735214066249576,38.64353617123288
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2009,166.14860836115452,175.724550612521,146.1838418808339
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1998,160.22154050119218,164.99233651900514,150.7439687158546
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2006,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2008,0.533572528314522,0.6472479328655828,0.4413948679656838
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2003,39.00754897784006,40.73874227110192,35.42665690979663
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2005,195.7419480719345,216.35964162847347,173.51146171159218
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2005,0.4597206586474886,0.9324325844473437,0.1995965239134718
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2005,0.23941016965584264,0.5306058145835799,0.10150423315428746
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2006,38.35158309197237,40.170305739225775,34.56099899845113
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2005,0.6732974121542289,0.8158112577491978,0.5565213151082424
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2008,0.20714382997723843,0.4338953577518885,0.08326836330686736
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2014,92.66055376627621,102.72353477893459,82.81087039834118
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2014,11.518364156779768,13.574455750803816,9.805222121413104
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2014,19.47076507189188,19.535744373281947,19.39766759948002
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2017,124.62426055227343,129.68335969885536,115.08904238470697
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2005,48.1649577412,54.260412330707474,41.82863874740072
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2008,0.0369715511713734,0.03987928516579672,0.03330381993734738
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2006,0.032080605106908994,0.03394855713972557,0.0294935127501008
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2006,496.58001778863985,500.16589494422334,494.2598256103007
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2008,491.4152734066849,535.4795690045607,453.37494052997374
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2008,24.0752605641257,27.757325159837453,21.287625298609186
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2005,0.04128898518488483,0.04352489309567712,0.03808089104950113
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2005,506.163537548616,510.16809897849316,503.9798737680334
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2006,137.4132996123308,154.63659952030338,120.550051473751
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2005,539.8254902158361,588.7397487994439,495.09374924119464
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2005,26.56226797068577,30.457630314861753,23.23663240537779
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2008,39.83843548712447,45.04643301446799,34.437989341162755
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2005,139.96805809779173,156.2882768264866,124.45446349342883
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2007,0.27462754542523127,0.5782750674831367,0.10137250098931146
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2003,0.2871090936641669,0.6895508738847772,0.1214196009704731
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2008,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2008,28.300358907217987,32.140103908973416,24.773357597041542
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2007,0.5676969379920492,0.6841856580623995,0.46324774682421993
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1999,38.406786350509606,39.976670715150625,35.21276141335569
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2001,157.59996542359374,162.41328393067823,147.52469698809367
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2005,38.917106507222776,40.745391067466365,35.171095922490444
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2013,92.19517842275877,103.98526652415974,81.89190315270324
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2013,12.043203935662628,14.203123928696346,10.175701583467026
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2013,18.66910559650651,18.72950625797073,18.59474726431463
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2011,158.5007997349622,168.00994679844675,139.31748201239245
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2012,139.43214167722195,160.68046389117498,118.67222935264233
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2012,155.93553481637878,165.34228604388204,137.08125429232115
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2014,25.963856607411138,27.099923692433862,23.903753060945085
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2014,0.13801496865222465,0.14451510403288886,0.12650565902916092
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2014,1.9279011063625229,1.9282351353346803,1.9275312777438849
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2008,0.022792038706513758,0.02421272617981969,0.020831535570184884
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2008,479.64473366839866,483.25552664617186,477.40124159191845
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2005,29.620329331119173,34.0467165510215,25.72413233242284
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2007,42.240281214352585,47.65747413860017,35.53377700702647
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2008,132.41264221462743,146.84657033306257,118.92587339065228
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2006,18.021343154652325,18.836390413626795,16.544337091448735
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2006,14.173574105643823,15.000061268833539,12.586202693497915
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2007,0.0382289983855352,0.04157068024717887,0.03456204341721133
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2003,51.28204445630825,58.23339662862678,44.66597747165448
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2005,18.63088457077062,19.456891118037035,17.106345683043426
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2005,13.890295336654745,14.664218356255134,12.361179839320185
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2005,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2007,507.28731889368277,560.1357969897508,458.890208539235
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2007,24.93268725198461,29.25482263303779,21.676077663966495
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2007,135.11407682517182,151.82979320287765,118.73147214911486
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2010,0.035137432199074975,0.038131223847027086,0.03143961769721619
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2009,0.14476328156777488,0.30084441763158787,0.06834051976276541
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2008,170.73248745390958,189.68091676377713,151.8221210423961
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2015,25.86300225260212,26.976243773187647,23.74400422880798
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2015,0.13686614878155284,0.14323168072556777,0.12583673766025172
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2015,1.832392118277865,1.8326873558571295,1.8321055124622714
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2010,38.74553604610241,40.78941199862585,34.55189545568891
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2007,38.41846696551437,40.3261316299144,34.511265918040564
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2010,156.75899250782302,175.83616118193203,139.55339807386216
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2008,16.65721395695309,17.449139536216844,15.246539359535857
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2008,14.658188506888974,15.494200402943681,12.997918161914548
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2009,0.4986435888021196,0.6044819617214583,0.41792473924575424
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2010,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2009,161.46332532775983,179.76508079125625,143.57057619403403
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2013,26.234653838177266,27.352538039490085,24.155793628595244
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2013,0.14752485951361108,0.15447759016089807,0.1352582961208364
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2013,2.0192607647488505,2.01962796289194,2.0188817655361353
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2008,39.43391290732603,41.454787184180226,35.31686520798049
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2007,28.730158480236966,33.33633459338915,24.536536852750483
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2003,141.25842775274188,158.98191981662518,124.7463941761494
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2007,0.32530731804517804,0.6676216093033286,0.13983509114748852
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2006,146.52402147242864,151.41273356735852,136.37620216268078
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2014,130.05500074776978,149.40661740729652,111.22101321062605
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2007,0.025993669764811315,0.02758006172954382,0.02375520835925174
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2007,486.07521257163745,489.82234080107816,483.9358388251346
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2007,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2009,0.03608475163547187,0.039118695441730196,0.03239524886865815
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2010,0.018842001449746043,0.02008254953922601,0.0170693839808625
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2010,462.4952920837336,466.0170280920867,460.24531470188236
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2015,90.85557305408796,99.08177660372672,81.19685183326875
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2015,11.05814000584892,12.837203628816395,9.663200882025802
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2015,18.03150979679581,18.086041690681643,17.960734776982374
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2011,0.11681747604475405,0.24154793968719554,0.054505866393130875
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2011,147.2298144004129,165.80554380131255,127.69607770364368
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2016,25.453648393295456,26.542995004336984,23.43649363311127
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2016,0.1409592319248649,0.1474988314017988,0.12991520643117652
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2016,1.7359922406340833,1.736251607409173,1.7357178926454684
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2009,471.6728451060261,515.3557484008896,433.1104677691678
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2009,23.005473205525117,26.662809088283016,20.22443158004884
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2009,0.18519322048771522,0.382599527328609,0.07576808703681284
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2000,158.84071346815384,163.65989758150434,148.78343604845176
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2011,0.4477705502513633,0.5219520338563132,0.37435036580851105
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1993,155.43303579128533,194.9228550727217,133.1459167110239
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1993,37.375326823527054,44.16924238430095,31.47119160733067
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1993,20.528981564468495,21.024571699317203,20.067075885198868
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1993,230.45648606770914,250.84607037965796,201.13326842349358
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1993,47.09358222621442,48.46875812449121,44.558653872064525
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1993,0.5940322638838211,0.616094065350435,0.5618184926236492
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1993,13.458123050320348,13.490206173197912,13.427681573542289
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1993,253.3781861915771,265.46508568264653,227.3018710182775
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1993,33.477360376344635,34.70767231304035,30.835316214779464
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1993,168.93878775314394,173.7365432659896,159.48755874416705
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2021,119.26825319091563,124.77482342971014,109.8288211785173
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2009,27.595182277245936,31.351637682023306,24.02845597694527
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2009,37.41194465030231,42.55392815654003,32.91805899175302
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2014,153.0073840681518,162.31886767244197,134.5228512271404
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2007,17.273306888860997,18.067676468527498,15.816667895911952
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2007,14.371593597447218,15.23526179876856,12.724524384837474
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2016,91.090633888553,99.28188734394656,81.22756128047176
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2016,10.730014182653202,12.420390756758437,9.24962928976624
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2016,17.972664860082222,18.032824935097377,17.90331689316641
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2010,15.047256170514064,15.797530535733406,13.758773635455041
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2010,15.762691782776216,16.70011418227761,13.901695843304836
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2009,0.020733328682667675,0.022090832462865494,0.018958062044508135
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2009,471.9738476212224,475.44619187666734,469.7896612235177
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2018,25.22542270552487,26.32534808070349,23.187502668455473
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2018,0.14850972341085358,0.15526701505718887,0.136995594493106
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2018,1.5490855846774003,1.5493152485641233,1.5488145333894456
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2011,445.5369086555343,486.7457148045165,399.4802212695833
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2011,21.64184061373909,25.130262717343577,18.752755523408176
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2011,39.06998891938278,41.1221428083818,34.79797320532565
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2003,153.28815033971955,157.9283709175688,143.2339022957783
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2012,38.8864641553399,40.95818644767091,34.62205771271879
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2009,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2009,39.14238066869882,41.14433823070611,34.95946998723745
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2009,128.38479399417278,143.30884355953435,114.92744480887995
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2013,0.3788871414916529,0.4490934653397827,0.3143783111474843
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2011,26.80110279654331,30.34208054179689,23.020602046878945
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2015,152.51148717763564,161.81047781547736,134.2128477259945
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2011,0.03545046891179483,0.03837987963073048,0.03168099133557025
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2009,15.95890906032625,16.74969290491757,14.610407339654325
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2009,15.043436036112123,15.960809755226725,13.279899431652021
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2011,0.14931836166153545,0.2979376405273989,0.06371323012957313
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2010,0.4749980880277722,0.5620223617438207,0.397832442153386
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2013,134.18200271728998,154.61896785637512,114.02155057636361
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2013,0.11536236531315518,0.22686593879654865,0.05504936663307819
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2010,0.11563515881907031,0.24117282116678576,0.0558591043668446
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2011,33.87839498019375,38.4877103499788,29.02322207539835
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2016,152.32021295173578,161.6048083137883,134.22068995675093
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2018,90.68584832355266,101.00207180893486,79.61532420278093
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2018,9.547152770216892,11.105048173225187,8.004396244725688
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2018,18.911650413405813,18.974250488484348,18.845681401501274
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2013,415.18454726256925,462.8248358895512,366.86361989012534
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2013,20.72404372771268,24.095784922928136,17.720292083773938
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2012,0.11736415532509832,0.23512964680639728,0.05618670778237108
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2013,0.03447189048553566,0.037597971615285226,0.030978029093688134
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2007,143.95999755522675,148.8597178824952,133.94225158514595
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2010,137.08140097091848,142.2314148111406,127.02209882508734
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2011,0.017571400969323234,0.018686858104369413,0.01598869835722199
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2011,460.9092240745512,464.58874184213926,458.81149144627
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2019,89.68924261182931,100.04403661625574,77.78107347632725
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2019,9.42034131054231,10.93535666005313,7.879135019167647
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2019,18.079007982090953,18.145757215521552,18.006495250332158
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2012,0.414607302889334,0.48994175338284746,0.3443795182756672
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2011,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2019,24.280690654330176,25.31212127939331,22.37996631462502
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2019,0.1506587342885663,0.1577112922600842,0.13906918438489685
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2019,1.4675965178784274,1.467870760159135,1.467265675999312
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2021,107.38629976540294,109.82521455368914,104.9376471068646
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2021,0.1465004957003709,0.1542258129689815,0.13479873044107324
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2021,1.4927273430357715,1.4930485713114308,1.4923642589851704
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2015,25.756530204371348,29.61796453934532,22.254110503599417
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2011,124.60277660573917,139.41469897175034,109.16041206114782
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1996,155.82508884538203,184.81657669297098,137.80505589835192
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1996,31.97925373160274,37.743371713403825,26.881832600179926
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1996,41.465934286793335,42.85327779934874,40.17572403353059
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2013,25.52190834542377,29.655534501764215,21.57290177471956
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2010,463.3881225615944,504.75512948332437,423.7873270678073
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2010,22.586371237243064,25.93142595595363,19.733142054927196
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2013,154.0451712219685,163.47812348945922,135.42578512100778
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2008,141.9032768217335,146.87109933578105,131.54391106077537
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2012,0.03486431357349522,0.03793336158405626,0.0311707528849999
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2013,0.14317228034162782,0.2734892860358141,0.057280741877571095
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2015,126.86210029609968,142.471209938967,110.03802016286944
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2018,148.23175862533506,157.23846464797705,130.20725407489408
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2013,0.01694105129419878,0.01793438176089646,0.015283928919473501
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2013,453.6371132637914,457.35770577203385,451.43794753579914
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2012,134.07204061534148,139.39486391194623,124.22226821041501
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2010,0.18901022495445935,0.36911749443181746,0.078195565221525
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2010,27.502221334628274,30.98690266174167,24.174792413159466
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2021,119.35668541660871,160.51050452838712,91.72883333309223
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2021,9.085951246958784,11.360750791364186,7.110926293781085
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2021,16.346808373259044,16.45364437664459,16.236014599981242
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2011,13.82111308202296,14.508834292772189,12.6561345409828
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2011,17.318483176345968,18.361049604986388,15.290047064417056
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2012,428.5137353973455,481.99146345453534,378.46940713563646
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2012,20.9940210967087,24.355484220994732,18.004288286674054
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2013,28.92838129275165,33.674535336329576,24.398901092478113
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2015,25.58243330092778,29.428379562049518,21.369323196192852
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2014,38.60785569026654,40.63718443929445,34.327634704808816
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2016,126.57045852328504,142.18884977782466,110.33752897382041
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2010,35.947485766397016,40.79345183759461,31.35743122325753
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,1996,42.674535881672035,44.04124039568821,40.08665322717458
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,1996,0.44289006857292157,0.45962393362675386,0.4153182801540845
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,1996,10.37008172298768,10.385528559548407,10.355381552738425
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2011,135.99139575148658,141.12306047197265,125.99692019420405
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2012,26.018506351071483,30.06532587757116,21.870374734963935
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2012,0.016916634466261155,0.01789909970867467,0.015361752304465622
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2012,456.8650449294723,460.48773803817517,454.73536634675236
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2013,117.77363458083222,136.10163034731931,101.87314246895203
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2013,12.536642410646644,13.159109842552994,11.446309102612155
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2013,18.931853330290096,20.027018296580568,16.709051352220033
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2015,115.34991640311527,129.87812225958677,102.59883352477519
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2010,127.54002135269154,142.0836189701318,113.55412988618119
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2014,0.11686419116692605,0.2291701559525455,0.05713085872690717
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2015,38.83648123857107,40.889769842235225,34.53517297987537
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2015,0.03372171588217579,0.03658693667388304,0.030216241628936172
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2013,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2014,0.03415297715868825,0.03732384212585266,0.030625611605852192
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2015,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2016,38.7842226528035,40.87440009819727,34.54762435517152
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2019,146.1111183365168,155.00346267712456,128.36378544674696
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2012,0.1501206194589595,0.2794211302034403,0.06411102369218083
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2021,145.29701417755615,154.2665903020587,127.70692367483426
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1996,224.18127447390236,251.2678665661699,199.29008754790982
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2002,126.32841959344485,142.88856062718054,114.85246446590938
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2002,25.50135243284122,29.390050017129656,21.71151135463934
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2002,32.55512491389171,33.43123030049662,31.741825030120683
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2002,32.579268626507265,33.79931015588864,30.350059187931368
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2002,0.2850988222491626,0.29675351905640246,0.2656206007581754
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2002,4.578176140466928,4.580254929062934,4.576182629925263
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2012,13.214956613548395,13.865564024569894,12.06088456706139
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2012,18.004827832407816,19.08790586296095,15.87220794247286
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2009,140.56562715597875,145.65895675556305,130.37294308678966
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2018,123.87412865817522,142.60416644033396,105.41304235519654
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2019,126.74904267436204,144.4753015771602,108.81979725853479
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2017,12.593502457126908,13.201853122599529,11.573572956778843
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2017,21.171491594832805,22.35585290268828,18.73426619308358
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2014,0.3479757670720878,0.4117145293158879,0.29082201365942306
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2012,31.385986108740667,36.5573695468486,26.624347801671203
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2012,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2013,38.887595483618945,40.9506636058787,34.58520348482377
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2016,0.29384207176749566,0.34057154669533896,0.2526656351393912
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2015,0.017735967206680574,0.018790983424303246,0.01611871592030601
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2015,453.30594656334716,457.13735159495906,451.18700948666464
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2014,0.1029142090871577,0.20138714553219303,0.04022375093072491
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2016,0.12147884452989578,0.23522654140834345,0.058341009214902304
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2018,37.847938211373354,39.9777349918685,33.58929749289979
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2014,0.017257739181316584,0.01831927347352234,0.015587198897326012
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2014,453.06128622422625,456.67457474296714,450.895081619048
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,1996,242.78850685709804,254.62169262479117,217.6543555879216
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2014,130.36665192967308,135.55386082640814,120.64847601819281
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2021,128.00997264818005,156.2128572683,101.38050642837001
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2014,27.26446788519394,31.60300395477066,22.96590525569173
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2020,100.122545010948,102.8781723175734,97.00393554793038
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2020,0.14558909893057448,0.15259438076902182,0.1342022334390644
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2020,1.5186893049428183,1.5190175216200492,1.5183801578102356
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2012,121.05083459446323,138.0624493668806,104.55501684501571
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2014,407.8488899291326,457.01772531029013,359.1713332044097
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2014,20.86397305284704,24.170343841204957,17.836789180114533
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,295,"Communicable, maternal, neonatal, and nutritional diseases",3,Rate,2020,84.13816162260228,96.05055068530994,72.84875294218197
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,297,Tuberculosis,3,Rate,2020,9.237051382882736,11.255755319766447,7.516150908691892
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,298,HIV/AIDS,3,Rate,2020,17.209075162890993,17.298736424081497,17.112737436531003
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2016,127.24824790393865,132.46067337809762,117.54920203114843
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2016,0.03431929446800834,0.03726792074702893,0.030691822603429533
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2002,215.68762288851948,226.9494660661591,192.2859800856208
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2014,12.398288249743326,13.022231205497096,11.323796059693247
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2014,19.530395902685015,20.686300232940475,17.22673240508054
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2015,12.444337342037883,13.048077385358004,11.388106206535431
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2015,20.142022020185212,21.29604553463952,17.794709587882508
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2002,204.1618060970814,227.0559576887748,181.77797548337216
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2016,401.6531397905346,436.8826979522949,368.18126216856047
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2016,21.365391309243176,24.65147120783873,18.550413921253483
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2015,128.02514901305673,133.25480123660284,118.3249763688371
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2014,116.2576476108189,133.23129032221803,99.96582521869266
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2014,25.624290552002627,29.88230425926895,21.37111474576807
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2016,0.008370337723884944,0.01500287309420378,0.0033719846579275095
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2021,37.017843250287456,39.13644001941961,32.56186825910335
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2019,37.06619403637323,39.133530252189765,32.90581459492428
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2013,131.63449631686748,136.8277903391259,121.73642504709122
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2018,121.33285711964736,126.45938829945224,111.88131939841209
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2016,26.571247955592415,30.189624908147643,22.597960320672833
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2020,144.25871885625907,153.2454512140506,126.10087092387471
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,491,Cardiovascular diseases,3,Rate,2020,127.09733474009026,150.68516268137338,105.30453004944552
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2016,24.683119396221205,28.545639961782733,20.91335351812647
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2018,0.13818768655799188,0.28655831233502105,0.0662151093860097
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2002,39.173343007209624,40.905483444524926,35.654104733948905
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1996,34.40318102015114,35.76771226597206,31.624950348590975
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2016,0.018629475043290027,0.019827302492741703,0.01693838740941157
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2016,455.63601292709245,459.6787301226947,453.5812741785797
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2015,0.11782340259031335,0.23128437913939037,0.057206036193903735
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2018,0.2489405204294203,0.29268331906083106,0.2072886749423886
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2015,0.31452755574756075,0.3666510687327251,0.26920775168648164
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2019,119.24335740605197,124.29488490181345,109.8694976876891
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2020,36.73331345924281,38.765060241470145,32.416366945824045
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2002,155.96319037483943,160.6074481785251,145.98298749991255
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1996,164.91220804014432,169.73666983543345,155.18570444169663
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2016,115.28076225609182,127.81679889638205,102.19653813281927
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2014,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2020,118.20950491854805,123.31998015812141,108.43970037605771
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2016,12.518440135906204,13.117199089653772,11.493233937985027
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2016,20.802444421569792,22.023104593723332,18.39791544599964
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2018,0.03351917752289429,0.03648633326857495,0.029936262791398997
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2018,399.3425661119406,450.17477550365885,354.1586066498757
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2018,21.749033203797012,25.182781935839124,18.346609511222784
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2019,0.23212606551307416,0.2727831432898705,0.19567187906296465
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2015,0.019774701319269852,0.03571968749511978,0.008275273571910475
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2019,0.15280889300582828,0.3190540518225254,0.07219236462664437
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2015,401.8631055689324,440.2811793880309,364.03535932198406
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2015,21.00668799941812,24.179164469879368,18.084259401069318
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1996,0.5591971395975971,0.6830156941730736,0.45458409844821024
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2019,0.033459709603885814,0.03665382852710137,0.02983399389215663
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2017,0.12715061009589987,0.25498605976194183,0.06100915289412183
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2018,28.213335564985446,32.648218723676806,23.840874455145148
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2017,0.2646373804346253,0.310869633879946,0.22472186928487595
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2016,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2017,394.1939408099309,440.6308127997611,354.30682916826873
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2017,21.221742374134614,24.666993237851607,18.102947856864027
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2017,27.08531307534714,31.10001406124734,22.92458730455778
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2018,0.02511775340544999,0.026944273049903853,0.02243049997113276
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2018,446.6655042544946,450.51458462633,444.5911731985423
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2017,0.03460289518869018,0.0374910791324296,0.031036933552405326
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2017,0.020841012004530906,0.022263566038055047,0.018830320808523843
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2017,453.4057604856418,457.10262668212533,451.28273410516516
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2018,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2018,0.004623034991438319,0.01114786103229214,0.001015647888991975
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2019,408.4911644724633,459.0061717967919,364.6610779996883
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2019,22.52795252151814,25.976286796029417,18.757005367563593
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1996,0.7093344832836386,1.4162352189439051,0.2897095968036075
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2019,0.029139793897718817,0.03153769049278568,0.025880201815033185
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2019,442.8194724839733,446.8650616662225,440.56297595611903
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2019,0.0027950874823627235,0.005441531621825282,0.000742100191863548
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2018,23.732989025637792,28.129036776387746,19.63573370300166
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1996,599.1965452030544,671.3114878515636,536.4023984494889
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1996,27.893647062274393,33.13114564847788,23.738132432630508
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2021,0.22360131309097153,0.2856815558006428,0.1741022619625215
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2018,12.541372747648568,13.15383311069076,11.51297901499613
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2018,21.28475855746711,22.497851082977967,18.820295377153865
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2019,29.51845737735564,33.91555505477347,24.582656475958903
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1993,26.377468328850032,31.007262967447748,22.755134946159938
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2019,24.030229423579218,28.455206015819883,19.709087329705095
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2018,115.40343538032798,133.01269421334024,99.39175391034318
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1996,27.979555479868267,33.195468939552825,24.09714342193973
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2019,12.627430117719804,13.228772408080392,11.587324046843818
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2019,21.614299178266304,22.883646235292886,19.115436838476143
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1996,0.0513438008682687,0.05508039425717504,0.047216148059433756
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1996,0.5758201151661573,1.1990677447759617,0.25630189048058616
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2017,0.004791441871585282,0.00936666299986664,0.001871193329323844
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2017,23.678112854956147,28.150077528967877,19.92078797350984
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2019,118.1249063027586,134.30003450939768,103.09195526421826
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2017,113.78756286041204,128.51617027449052,99.69665517374406
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2021,411.0804291218226,502.2157452692138,330.5713228265588
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2021,22.792160675125306,28.514358833453485,17.27602667842362
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1996,63.808664668256206,73.94516747682859,54.45668965952324
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2017,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1996,0.0707409766228447,0.07535772725437972,0.0648583359392103
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1996,555.4038661595634,559.3940404843055,553.1407165598587
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2021,29.898599553073254,37.14032083185677,22.76902663177296
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2021,0.27309640624513,0.5698911545524946,0.1166589650764974
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2019,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1993,0.059231878614865896,0.06382220071988792,0.054685889469157103
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1993,0.06433758981021122,0.06848778430895437,0.058987463532166814
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1993,567.6121381225154,571.1834773724878,565.455108138017
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1996,147.99365016288093,169.2208031947147,128.9053430461749
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1993,16.442049221944956,17.107135089432795,15.236539296446415
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1993,8.926816601513096,9.356702149332119,8.01866578465504
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1996,0.0,0.0,0.0
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2021,0.032895667746217314,0.0365220905167212,0.029159101196253694
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1996,17.936680474110567,18.659590169508064,16.49713766423435
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,1996,9.155916379124035,9.6006512113102,8.221934016266573
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2002,0.6375583247949093,0.7972009797829791,0.5239283422878824
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,1993,68.12802080954673,77.6619135044055,58.32604593676061
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2020,0.22834383318418577,0.2754758961214327,0.18620217225319155
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,1993,144.89557546158792,160.7113697127166,127.47691401114285
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2021,0.028495358144568633,0.03108324882538053,0.024834381360527204
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2021,442.79810131879145,448.16343737887934,437.8811072894921
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2002,0.5828218794336391,1.149049150854207,0.25991253486037663
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2002,558.1466750977523,615.2006137046037,506.6258663759611
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2002,26.89520038593149,30.496389628293112,23.254386586123736
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,1993,0.6388626305944806,0.7966741129716518,0.4994449896503637
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2021,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,1993,604.4577156004416,656.2263986849374,543.0399598073873
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,1993,26.481037801318795,31.073447593910277,22.380855443975406
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2020,409.3375186829762,475.41994502221195,353.0677856763449
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,22.663058660049938,27.726115976742456,18.1364283170514
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2021,0.0007438184156617953,0.0017187869594472358,0.0001415057038127768
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2002,0.043547962515448665,0.04671325398720324,0.03952662620142463
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2021,12.643637702455885,13.333868753283525,11.641626260975238
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2021,21.933882218029716,23.511101000889408,19.313852303118498
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2002,29.513595018743924,33.764739145765056,25.6541373176195
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2020,29.66259185953124,35.364905123076134,23.65302532642321
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2021,24.55537542217706,30.822609805909586,18.841283413813954
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,1993,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2020,0.21467068689365745,0.44085034436875925,0.09513557310796956
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,1993,0.6565195064040715,1.3520985227985594,0.25770000027907103
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2021,118.99359170894968,148.2400971526256,93.68240783499267
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,393,Sexually transmitted infections excluding HIV,3,Rate,2020,0.03304044102310225,0.03673051123429566,0.029351027723567277
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2002,0.07028274784111865,0.07439817116224562,0.06537036481144815
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2002,536.8635406847376,540.314348340457,534.792155444222
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2002,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2020,0.0012316996468132093,0.0025471972005364192,0.000288139320986122
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,400,Acute hepatitis,3,Rate,2020,0.028767166897183043,0.03128427718307801,0.025317853537130657
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,409,Non-communicable diseases,3,Rate,2020,439.45525970076574,443.29636894276166,436.68241499542904
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2002,19.21067391953945,20.024712448627213,17.739570541936338
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2002,13.337890528043618,14.02257545128825,11.942364702766497
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,2002,0.27525820240099297,0.6426697131557182,0.12588624679687474
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2020,24.20148617017538,29.50449656448653,19.223339124846238
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,12.529769724541621,13.161092139189408,11.476846904184512
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,589,Chronic kidney disease,3,Rate,2020,21.739152490460565,23.57548464339253,19.054214299579982
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,508,Chronic respiratory diseases,3,Rate,2002,53.140174072252556,60.48341662216041,46.02210210534475
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2020,118.65142497874787,141.79062981676853,99.51586785369958
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,345,Malaria,3,Rate,1993,0.965322211297968,2.073943930778412,0.4005719913301862
+1,Deaths,102,United States of America,3,Both,27,Age-standardized,345,Malaria,3,Rate,2020,0.0,0.0,0.0
+1,Deaths,18,Kingdom of Thailand,3,Both,27,Age-standardized,1029,Total cancers,3,Rate,2002,142.14189634419023,160.2141885293615,124.07484125422152
